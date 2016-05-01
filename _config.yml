@@ -1,7 +1,7 @@
 name: TxT
 favicon: null
-layout_spectrum: 0.41212177090346813
-typography_spectrum: 0.5672949135769159
+layout_spectrum: 0.64336
+typography_spectrum: 0.32621
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3748003183864057
-  lightness: 0.5544501491822302
+  brandStrength: 0.375
+  lightness: 0.625
   saturation: 0.7168863366823643
   rhythmicContrast: 0.3757636931259185
 purpose: []
